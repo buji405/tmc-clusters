@@ -5,9 +5,11 @@ A small app that sorts and filters data in a table.
 
 * Clone the repo
 * cd into client directory and run ```npm install```, then run ```npm start```
+* if it doesnt compile by chance, you may need to upgrade your node version to 15.2.0 (I noticed this issue when I cloned the project down to another computer where I was using a lower version of node). 
 * Navigate to localhost:3000 in your browser
 * Begin searching for relevant data in the search bar or click on the header cells to sort from high to low/alpha. 
 * to reset the search either click the "X" icon in the search bar, or completely delete any text in search. 
+
 
 **Description**
 
