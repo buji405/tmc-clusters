@@ -8,9 +8,9 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
+    "@types/node": "^14.14.14",
     "material-ui-icons": "^1.0.0-beta.36",
     "material-ui-search-bar": "^1.0.0",
-    "react": "^17.0.1",
     "react-data-table-component": "^6.11.6",
     "react-scripts": "4.0.1",
     "react-search-field": "^1.2.0",
@@ -45,6 +45,7 @@
   "devDependencies": {
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "react": "^16.14.0",
     "react-dom": "^17.0.1"
   }
 }
