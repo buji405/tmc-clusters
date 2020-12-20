@@ -3,8 +3,8 @@ import SearchBar from "material-ui-search-bar";
 
 interface SearchProps {
   data: ClusterData[];
-  setData: Function;
   initialData: ClusterData[];
+  setData: Function;
 }
 
 const TableSearch = (props: SearchProps) => {
